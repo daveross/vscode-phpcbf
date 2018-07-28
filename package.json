@@ -4,6 +4,11 @@
     "description": "PHP Code Beautifier and Fixer",
     "version": "0.0.8",
     "publisher": "persoderlind",
+    "contributors": [{
+            "name" : "Dave Ross",
+            "email" : "dave@davidmichaelross.com",
+            "url" : "http://davidmichaelross.com/"
+    }],
     "homepage": "https://github.com/soderlind/vscode-phpcbf",
     "icon": "images/logo.png",
     "license": "SEE LICENSE IN LICENSE.txt",
